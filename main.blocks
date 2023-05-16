@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="wnj01:wz-pswPn#2frLC">OPCION</variable><variable id=";FLIKcD|k+DS=q%Xgzo1">strip</variable></variables><block type="device_button_event" id=",7Q_x/f;=}g-%o}jo`$;" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="-]K,{V6~tv*B}=JbUSs*"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></xml>
